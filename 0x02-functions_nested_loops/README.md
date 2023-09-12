@@ -1,1 +1,1 @@
-In this project i will be learning about c functions in deeper details.
+In this project i will be learning about c
