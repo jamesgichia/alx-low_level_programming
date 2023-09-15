@@ -1,0 +1,1 @@
+Its all about coding new stuff and debugging them.
