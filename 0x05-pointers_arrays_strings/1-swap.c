@@ -2,7 +2,8 @@
 
 /**
  * swap_int - check the code
- * Swaps the the values of @a and @b
+ * @a : the value of this variable should be swapped with that of @b
+ * @b : the value of this variable should be swapped with that of @a
  * Has no return value
  */
 
