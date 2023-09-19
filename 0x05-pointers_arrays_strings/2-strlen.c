@@ -5,7 +5,7 @@
  * @s : is a pointer pointing to the address of the
  *  first character of the string
  *
- * return : an int value, the length of the string
+ * Return : an int value, the length of the string
  */
 
 int _strlen(char *s)
