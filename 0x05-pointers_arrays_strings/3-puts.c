@@ -3,22 +3,22 @@
 /**
  * _puts - prints a string to the console
  * followe by a new line.
- * 
+ *
  * @str: pointer to the string to be outputed
-*/
+ *
+ * Return: void.
+ */
 
 
 
 
 void _puts(char *str)
 {
-    int index = 0;
+	while(*str != '\0')
+	{
+		_putchar(*str);
+		str++;
+	}
 
-    while(str[index] != '\0')
-    {
-        _putchar(index);
-        index++;
-    }
-
-    _putchar('\n');
+	_putchar('\n');
 }
